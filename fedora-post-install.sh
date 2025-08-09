@@ -85,7 +85,8 @@ function install_packages() {
 			code \
 			kate \
 			nodejs \
-			golang
+			golang \
+			vim
 # 	elif [[ "$XDG_CURRENT_DESKTOP" == *"GNOME"* ]]; then
 # 		echo "Gnome desktop detected."
 # 		# Internet
@@ -106,7 +107,8 @@ function install_packages() {
 # 			golang \
 # 			geany \
 # 			geany-plugin-* \
-# 			geany-themes
+# 			geany-themes \
+# 			vim
 # 	fi
 
 	# flatpaks
