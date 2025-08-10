@@ -1,8 +1,6 @@
 source $VIMRUNTIME/defaults.vim
 
-"colo zaibatsu
-"colo habamax
-colo quiet
+colo sorbet
 set background=dark
 set mouse=
 set autoindent
